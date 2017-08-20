@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Business/Business.iml" filepath="$PROJECT_DIR$/Business/Business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericProject.iml" filepath="$PROJECT_DIR$/GenericProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PersistentData/PersistentData.iml" filepath="$PROJECT_DIR$/PersistentData/PersistentData.iml" />
+    </modules>
+  </component>
+</project>
